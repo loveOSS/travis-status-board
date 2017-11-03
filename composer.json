@@ -1,9 +1,9 @@
 {
-    "name": "prestashop/status-board",
+    "name": "loveoss/status-board",
     "description": "Dashboard to display a list of projetcs builds from both open source and closed source projects",
     "type": "project",
     "require": {
-        "symfony/yaml": "3.2.*"
+        "symfony/yaml": "~3.3"
     },
     "license": "MIT",
     "authors": [
